@@ -1,0 +1,102 @@
+TONY LEE
+SENIOR AI / FULL-STACK ENGINEER
++1 929 233 9052 | tonyylee.official@gmail.com | Memphis, TN | linkedin.com/in/tony-lee-4769ba3b8
+
+SUMMARY
+Senior AI / Full-Stack Engineer with 10 years of building and scaling production-grade systems across SaaS and
+AI-driven platforms. Deep expertise in LLM applications, RAG pipelines, and real-time AI systems, with a strong
+focus on system design, performance optimization, and multi-tenant architectures. Proven ability to own end-to-end
+delivery - from prototyping to production - across high-impact, data-intensive environments.
+
+WORK EXPERIENCE
+TheKey
+Generative AI Engineer | Jan 2024 - Present
+- Built LLM-powered features for internal healthcare tools, allowing users to query patient-related data and workflows
+  in a more natural way instead of navigating multiple systems.
+- Designed and iterated on RAG pipelines combining structured data and unstructured documents, improving retrieval quality
+  and reducing manual lookup.
+- Implemented backend services in Python (FastAPI) to support real-time AI responses, including streaming outputs and
+  session-aware interactions.
+- Integrated embedding-based retrieval using vector search, tuning chunking strategies and retrieval logic to improve
+  consistency across similar queries.
+- Worked closely with product to refine prompt design, response formats, and guardrails, improving reliability and
+  usability in real-world workflows.
+- Implemented authentication, session management, and access control, ensuring secure handling of sensitive healthcare data.
+- Identified bottlenecks in retrieval and generation pipelines, improving latency through async processing and lightweight
+  caching.
+- Structured the system to support extensible AI use cases (chat, summarization, workflow automation) without major refactoring.
+
+Google (Google Cloud)
+AI Research Engineer (LLM Systems) | Jan 2023 - Oct 2023
+- Worked on LLM-based pipelines for document processing and semantic search, improving how large datasets are indexed and queried.
+- Built embedding-based retrieval systems, experimenting with indexing strategies and similarity search.
+- Used GCP tools such as Vertex AI and BigQuery to run experiments, process data, and support model-driven workflows.
+- Improved data pipelines for indexing, retrieval, and preparation of model inputs.
+- Helped transition research prototypes into more stable, production-oriented pipelines by improving data handling and system reliability.
+- Collaborated with engineers and researchers to evaluate model outputs and refine retrieval and generation behavior.
+
+HubSpot
+AI Full-Stack Engineer | Mar 2020 - Dec 2023
+- Built and maintained backend services using Node.js and Python, supporting high-volume SaaS workflows and integrations across multiple systems.
+- Designed REST APIs for data-heavy operations with a focus on reliability, clear contracts, and long-term maintainability as product requirements evolved.
+- Improved database performance by analyzing slow queries, adding indexes, and optimizing data access patterns in critical services.
+- Introduced Redis-based caching to reduce repeated load on core endpoints and improve response times.
+- Contributed to frontend development using React and Next.js, improving usability and reducing friction in key user flows.
+- Worked on early AI-driven features, including automation and data enrichment, integrating them into existing product workflows.
+- Participated in system design discussions around scaling services and maintaining system reliability.
+- Improved CI/CD pipelines and deployment processes, reducing release issues and increasing consistency.
+
+Squarespace
+Software Engineer | Jun 2017 - Feb 2020
+- Developed full-stack features for web applications, including backend APIs and frontend components used in customer-facing products.
+- Built and maintained services for content management systems and user-related workflows.
+- Improved frontend performance by addressing rendering issues and optimizing key UI interactions.
+- Collaborated with product and design teams to deliver features that balanced usability with technical constraints.
+
+AutoZone
+Software Engineer Intern | Jul 2016 - May 2017
+- Assisted in building internal tools and web applications as part of a larger engineering team.
+- Supported debugging, testing, and incremental feature development across backend and frontend components.
+- Applied standard development practices including version control, code reviews, and collaborative workflows.
+
+University of Texas at Dallas
+Research Assistant | Aug 2015 - Dec 2016
+- Built Python-based tools for data processing and experimentation in research projects.
+- Assisted with early-stage machine learning workflows and data analysis.
+- Supported implementation and documentation of research systems.
+
+TECHNICAL SKILLS
+AI/ML:
+LLMs (OpenAI, Anthropic APIs), RAG (Retrieval-Augmented Generation), Embedding & Vector Search, Semantic Search, Prompt Engineering,
+Retrieval Optimization (chunking, ranking), LLM Evaluation & Output Tuning, AI Agents / Workflow Automation, NLP (Natural Language Processing),
+Knowledge Augmentation Systems, Context Injection / Memory Handling, LangChain / LLM Orchestration frameworks.
+
+Backend:
+Python, FastAPI, Node.js (Express / backend services), REST APIs, WebSockets, Async Processing / Concurrency,
+Microservices Architecture, Distributed Systems, Event-Driven Architecture, API Design & Contract Design,
+Authentication & Authorization (RBAC, JWT), Session Management, Multi-tenant Systems, System Design & Scalability,
+Performance Optimization, Caching Strategies.
+
+Frontend:
+React, Next.js, TypeScript, JavaScript (ES6+), State Management (Context, Redux basics),
+Component Design, Frontend Performance Optimization, Responsive UI Development.
+
+Data & Storage:
+PostgreSQL, MongoDB, Redis (Caching), Vector Databases (Pinecone, Weaviate, FAISS), BigQuery,
+Data Modeling, Query Optimization, Indexing Strategies.
+
+Cloud & Infrastructure:
+AWS, GCP (Vertex AI, BigQuery, Cloud Functions), Docker (Containerization), CI/CD Pipelines (GitHub Actions),
+Cloud-native Architecture, Deployment & Monitoring Basics, Scalable Infrastructure Design.
+
+Databases:
+PostgreSQL, MySQL, Vector Databases, Database Schema Design, Query Optimization, Indexing Strategies, Caching.
+
+Engineering Practices:
+System Design, Code Review, Debugging & Troubleshooting, Performance Profiling, Agile / Iterative Development,
+Cross-functional Collaboration, Technical Decision Making.
+
+EDUCATION
+Bachelor of Science (B.Sc.), Computer Science | 2012 - 2016
+The University of Texas at Dallas
+
